@@ -1,0 +1,1 @@
+/home/gavin/minimec/build/mini_mec_description/ament_cmake_environment_hooks/local_setup.bash

@@ -1,0 +1,122 @@
+[0.258s] DEBUG:colcon:Command line arguments: ['/usr/bin/colcon', 'list', '-p', '--base-paths', '/home/gavin/minimec']
+[0.259s] DEBUG:colcon:Parsed command line arguments: Namespace(log_base=None, log_level=None, verb_name='list', build_base='build', ignore_user_meta=False, metas=['./colcon.meta'], base_paths=['/home/gavin/minimec'], packages_ignore=None, packages_ignore_regex=None, paths=None, packages_up_to=None, packages_up_to_regex=None, packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_select_by_dep=None, packages_skip_by_dep=None, packages_skip_up_to=None, packages_select_build_failed=False, packages_skip_build_finished=False, packages_select_test_failures=False, packages_skip_test_passed=False, packages_select=None, packages_skip=None, packages_select_regex=None, packages_skip_regex=None, packages_start=None, packages_end=None, allow_overriding=[], topological_order=False, names_only=False, paths_only=True, topological_graph=False, topological_graph_dot=False, topological_graph_density=False, topological_graph_legend=False, topological_graph_dot_cluster=False, topological_graph_dot_include_skipped=False, mixin_files=None, mixin=None, verb_parser=<colcon_mixin.mixin.mixin_argument.MixinArgumentDecorator object at 0x71ae6637c550>, verb_extension=<colcon_package_information.verb.list.ListVerb object at 0x71ae66347580>, main=<bound method ListVerb.main of <colcon_package_information.verb.list.ListVerb object at 0x71ae66347580>>, mixin_verb=('list',))
+[0.805s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) check parameters
+[0.806s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) check parameters
+[0.806s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) check parameters
+[0.806s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) check parameters
+[0.806s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) discover
+[0.806s] INFO:colcon.colcon_core.package_discovery:Crawling recursively for packages in '/home/gavin/minimec'
+[0.806s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec) by extensions ['ignore', 'ignore_ament_install']
+[0.807s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec) by extension 'ignore'
+[0.807s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec) by extension 'ignore_ament_install'
+[0.807s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec) by extensions ['colcon_pkg']
+[0.807s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec) by extension 'colcon_pkg'
+[0.807s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec) by extensions ['colcon_meta']
+[0.807s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec) by extension 'colcon_meta'
+[0.807s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec) by extensions ['ros']
+[0.807s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec) by extension 'ros'
+[0.833s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec) by extensions ['cmake', 'python']
+[0.833s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec) by extension 'cmake'
+[0.833s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec) by extension 'python'
+[0.833s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec) by extensions ['python_setup_py']
+[0.833s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec) by extension 'python_setup_py'
+[0.834s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/build) by extensions ['ignore', 'ignore_ament_install']
+[0.834s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/build) by extension 'ignore'
+[0.834s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/build) ignored
+[0.834s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/install) by extensions ['ignore', 'ignore_ament_install']
+[0.835s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/install) by extension 'ignore'
+[0.835s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/install) ignored
+[0.835s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/log) by extensions ['ignore', 'ignore_ament_install']
+[0.835s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/log) by extension 'ignore'
+[0.835s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/log) ignored
+[0.836s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src) by extensions ['ignore', 'ignore_ament_install']
+[0.836s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src) by extension 'ignore'
+[0.836s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src) by extension 'ignore_ament_install'
+[0.836s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src) by extensions ['colcon_pkg']
+[0.836s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src) by extension 'colcon_pkg'
+[0.836s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src) by extensions ['colcon_meta']
+[0.836s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src) by extension 'colcon_meta'
+[0.836s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src) by extensions ['ros']
+[0.836s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src) by extension 'ros'
+[0.837s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src) by extensions ['cmake', 'python']
+[0.837s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src) by extension 'cmake'
+[0.837s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src) by extension 'python'
+[0.837s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src) by extensions ['python_setup_py']
+[0.837s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src) by extension 'python_setup_py'
+[0.837s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/mini_mec_bringup) by extensions ['ignore', 'ignore_ament_install']
+[0.837s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/mini_mec_bringup) by extension 'ignore'
+[0.837s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/mini_mec_bringup) by extension 'ignore_ament_install'
+[0.838s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/mini_mec_bringup) by extensions ['colcon_pkg']
+[0.838s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/mini_mec_bringup) by extension 'colcon_pkg'
+[0.838s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/mini_mec_bringup) by extensions ['colcon_meta']
+[0.838s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/mini_mec_bringup) by extension 'colcon_meta'
+[0.838s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/mini_mec_bringup) by extensions ['ros']
+[0.838s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/mini_mec_bringup) by extension 'ros'
+[0.844s] DEBUG:colcon.colcon_core.package_identification:Package '/home/gavin/minimec/src/mini_mec_bringup' with type 'ros.ament_cmake' and name 'mini_mec_bringup'
+[0.844s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/mini_mec_description) by extensions ['ignore', 'ignore_ament_install']
+[0.844s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/mini_mec_description) by extension 'ignore'
+[0.844s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/mini_mec_description) by extension 'ignore_ament_install'
+[0.845s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/mini_mec_description) by extensions ['colcon_pkg']
+[0.845s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/mini_mec_description) by extension 'colcon_pkg'
+[0.845s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/mini_mec_description) by extensions ['colcon_meta']
+[0.845s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/mini_mec_description) by extension 'colcon_meta'
+[0.845s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/mini_mec_description) by extensions ['ros']
+[0.845s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/mini_mec_description) by extension 'ros'
+[0.847s] DEBUG:colcon.colcon_core.package_identification:Package '/home/gavin/minimec/src/mini_mec_description' with type 'ros.ament_cmake' and name 'mini_mec_description'
+[0.848s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf) by extensions ['ignore', 'ignore_ament_install']
+[0.848s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf) by extension 'ignore'
+[0.848s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf) by extension 'ignore_ament_install'
+[0.848s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf) by extensions ['colcon_pkg']
+[0.848s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf) by extension 'colcon_pkg'
+[0.848s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf) by extensions ['colcon_meta']
+[0.849s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf) by extension 'colcon_meta'
+[0.849s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf) by extensions ['ros']
+[0.849s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf) by extension 'ros'
+[0.849s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf) by extensions ['cmake', 'python']
+[0.849s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf) by extension 'cmake'
+[0.849s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf) by extension 'python'
+[0.849s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf) by extensions ['python_setup_py']
+[0.849s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf) by extension 'python_setup_py'
+[0.850s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/meshes) by extensions ['ignore', 'ignore_ament_install']
+[0.850s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/meshes) by extension 'ignore'
+[0.850s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/meshes) by extension 'ignore_ament_install'
+[0.850s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/meshes) by extensions ['colcon_pkg']
+[0.850s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/meshes) by extension 'colcon_pkg'
+[0.850s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/meshes) by extensions ['colcon_meta']
+[0.850s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/meshes) by extension 'colcon_meta'
+[0.851s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/meshes) by extensions ['ros']
+[0.851s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/meshes) by extension 'ros'
+[0.851s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/meshes) by extensions ['cmake', 'python']
+[0.851s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/meshes) by extension 'cmake'
+[0.851s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/meshes) by extension 'python'
+[0.851s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/meshes) by extensions ['python_setup_py']
+[0.851s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/meshes) by extension 'python_setup_py'
+[0.851s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/rviz) by extensions ['ignore', 'ignore_ament_install']
+[0.852s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/rviz) by extension 'ignore'
+[0.852s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/rviz) by extension 'ignore_ament_install'
+[0.852s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/rviz) by extensions ['colcon_pkg']
+[0.852s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/rviz) by extension 'colcon_pkg'
+[0.852s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/rviz) by extensions ['colcon_meta']
+[0.852s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/rviz) by extension 'colcon_meta'
+[0.852s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/rviz) by extensions ['ros']
+[0.852s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/rviz) by extension 'ros'
+[0.853s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/rviz) by extensions ['cmake', 'python']
+[0.853s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/rviz) by extension 'cmake'
+[0.853s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/rviz) by extension 'python'
+[0.853s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/rviz) by extensions ['python_setup_py']
+[0.853s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/rviz) by extension 'python_setup_py'
+[0.853s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/urdf) by extensions ['ignore', 'ignore_ament_install']
+[0.853s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/urdf) by extension 'ignore'
+[0.854s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/urdf) by extension 'ignore_ament_install'
+[0.854s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/urdf) by extensions ['colcon_pkg']
+[0.854s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/urdf) by extension 'colcon_pkg'
+[0.854s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/urdf) by extensions ['colcon_meta']
+[0.854s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/urdf) by extension 'colcon_meta'
+[0.854s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/urdf) by extensions ['ros']
+[0.854s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/urdf) by extension 'ros'
+[0.854s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/urdf) by extensions ['cmake', 'python']
+[0.854s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/urdf) by extension 'cmake'
+[0.854s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/urdf) by extension 'python'
+[0.855s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/urdf) by extensions ['python_setup_py']
+[0.855s] Level 1:colcon.colcon_core.package_identification:_identify(/home/gavin/minimec/src/wheeltec_robot_urdf/urdf) by extension 'python_setup_py'
+[0.855s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) using defaults

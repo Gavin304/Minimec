@@ -1,0 +1,25 @@
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/gavin/minimec/build/mini_mec_description
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description//urdf/mini_mec_robot.urdf.xacro
+-- Symlinking: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description//launch/display.launch.xml
+-- Symlinking: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description//rviz/urdf_config.rviz
+-- Symlinking: /home/gavin/minimec/install/mini_mec_description/share/ament_index/resource_index/package_run_dependencies/mini_mec_description
+-- Symlinking: /home/gavin/minimec/install/mini_mec_description/share/ament_index/resource_index/parent_prefix_path/mini_mec_description
+-- Symlinking: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description/environment/ament_prefix_path.sh
+-- Symlinking: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description/environment/ament_prefix_path.dsv
+-- Symlinking: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description/environment/path.sh
+-- Symlinking: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description/environment/path.dsv
+-- Symlinking: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description/local_setup.bash
+-- Symlinking: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description/local_setup.sh
+-- Symlinking: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description/local_setup.zsh
+-- Symlinking: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description/local_setup.dsv
+-- Symlinking: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description/package.dsv
+-- Symlinking: /home/gavin/minimec/install/mini_mec_description/share/ament_index/resource_index/packages/mini_mec_description
+-- Symlinking: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description/cmake/mini_mec_descriptionConfig.cmake
+-- Symlinking: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description/cmake/mini_mec_descriptionConfig-version.cmake
+-- Symlinking: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description/package.xml

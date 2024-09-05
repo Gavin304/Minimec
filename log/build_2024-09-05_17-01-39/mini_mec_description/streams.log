@@ -1,0 +1,31 @@
+[0.017s] Invoking command in '/home/gavin/minimec/build/mini_mec_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/gavin/minimec/src/mini_mec_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/gavin/minimec/install/mini_mec_description
+[0.034s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.200s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.334s] -- Configuring done
+[0.344s] -- Generating done
+[0.349s] -- Build files have been written to: /home/gavin/minimec/build/mini_mec_description
+[0.359s] Invoked command in '/home/gavin/minimec/build/mini_mec_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/gavin/minimec/src/mini_mec_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/gavin/minimec/install/mini_mec_description
+[0.361s] Invoking command in '/home/gavin/minimec/build/mini_mec_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/gavin/minimec/build/mini_mec_description -- -j8 -l8
+[0.417s] Invoked command in '/home/gavin/minimec/build/mini_mec_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/gavin/minimec/build/mini_mec_description -- -j8 -l8
+[0.465s] Invoking command in '/home/gavin/minimec/build/mini_mec_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/gavin/minimec/build/mini_mec_description
+[0.475s] -- Install configuration: ""
+[0.476s] -- Execute custom install script
+[0.477s] -- Symlinking: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description//urdf/mini_mec_robot.urdf.xacro
+[0.493s] -- Symlinking: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description//launch/display.launch.xml
+[0.508s] -- Symlinking: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description//rviz/urdf_config.rviz
+[0.522s] -- Symlinking: /home/gavin/minimec/install/mini_mec_description/share/ament_index/resource_index/package_run_dependencies/mini_mec_description
+[0.536s] -- Symlinking: /home/gavin/minimec/install/mini_mec_description/share/ament_index/resource_index/parent_prefix_path/mini_mec_description
+[0.549s] -- Symlinking: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description/environment/ament_prefix_path.sh
+[0.565s] -- Symlinking: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description/environment/ament_prefix_path.dsv
+[0.581s] -- Symlinking: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description/environment/path.sh
+[0.594s] -- Symlinking: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description/environment/path.dsv
+[0.609s] -- Symlinking: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description/local_setup.bash
+[0.625s] -- Symlinking: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description/local_setup.sh
+[0.642s] -- Symlinking: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description/local_setup.zsh
+[0.655s] -- Symlinking: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description/local_setup.dsv
+[0.669s] -- Symlinking: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description/package.dsv
+[0.683s] -- Symlinking: /home/gavin/minimec/install/mini_mec_description/share/ament_index/resource_index/packages/mini_mec_description
+[0.697s] -- Symlinking: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description/cmake/mini_mec_descriptionConfig.cmake
+[0.713s] -- Symlinking: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description/cmake/mini_mec_descriptionConfig-version.cmake
+[0.727s] -- Symlinking: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description/package.xml
+[0.745s] Invoked command in '/home/gavin/minimec/build/mini_mec_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/gavin/minimec/build/mini_mec_description

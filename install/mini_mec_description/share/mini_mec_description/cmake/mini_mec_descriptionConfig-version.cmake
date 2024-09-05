@@ -1,0 +1,1 @@
+/home/gavin/minimec/build/mini_mec_description/ament_cmake_core/mini_mec_descriptionConfig-version.cmake
