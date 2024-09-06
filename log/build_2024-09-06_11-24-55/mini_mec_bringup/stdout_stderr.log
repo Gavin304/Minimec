@@ -1,0 +1,23 @@
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/gavin/minimec/build/mini_mec_bringup
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/gavin/minimec/install/mini_mec_bringup/share/mini_mec_bringup/launch/mini_mec_gazebo.launch.xml
+-- Symlinking: /home/gavin/minimec/install/mini_mec_bringup/share/ament_index/resource_index/package_run_dependencies/mini_mec_bringup
+-- Symlinking: /home/gavin/minimec/install/mini_mec_bringup/share/ament_index/resource_index/parent_prefix_path/mini_mec_bringup
+-- Symlinking: /home/gavin/minimec/install/mini_mec_bringup/share/mini_mec_bringup/environment/ament_prefix_path.sh
+-- Symlinking: /home/gavin/minimec/install/mini_mec_bringup/share/mini_mec_bringup/environment/ament_prefix_path.dsv
+-- Symlinking: /home/gavin/minimec/install/mini_mec_bringup/share/mini_mec_bringup/environment/path.sh
+-- Symlinking: /home/gavin/minimec/install/mini_mec_bringup/share/mini_mec_bringup/environment/path.dsv
+-- Symlinking: /home/gavin/minimec/install/mini_mec_bringup/share/mini_mec_bringup/local_setup.bash
+-- Symlinking: /home/gavin/minimec/install/mini_mec_bringup/share/mini_mec_bringup/local_setup.sh
+-- Symlinking: /home/gavin/minimec/install/mini_mec_bringup/share/mini_mec_bringup/local_setup.zsh
+-- Symlinking: /home/gavin/minimec/install/mini_mec_bringup/share/mini_mec_bringup/local_setup.dsv
+-- Symlinking: /home/gavin/minimec/install/mini_mec_bringup/share/mini_mec_bringup/package.dsv
+-- Symlinking: /home/gavin/minimec/install/mini_mec_bringup/share/ament_index/resource_index/packages/mini_mec_bringup
+-- Symlinking: /home/gavin/minimec/install/mini_mec_bringup/share/mini_mec_bringup/cmake/mini_mec_bringupConfig.cmake
+-- Symlinking: /home/gavin/minimec/install/mini_mec_bringup/share/mini_mec_bringup/cmake/mini_mec_bringupConfig-version.cmake
+-- Symlinking: /home/gavin/minimec/install/mini_mec_bringup/share/mini_mec_bringup/package.xml

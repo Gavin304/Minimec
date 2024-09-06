@@ -1,0 +1,9 @@
+/home/gavin/minimec/build/mini_mec_bringup/CMakeFiles/uninstall.dir
+/home/gavin/minimec/build/mini_mec_bringup/CMakeFiles/mini_mec_bringup_uninstall.dir
+/home/gavin/minimec/build/mini_mec_bringup/CMakeFiles/test.dir
+/home/gavin/minimec/build/mini_mec_bringup/CMakeFiles/edit_cache.dir
+/home/gavin/minimec/build/mini_mec_bringup/CMakeFiles/rebuild_cache.dir
+/home/gavin/minimec/build/mini_mec_bringup/CMakeFiles/list_install_components.dir
+/home/gavin/minimec/build/mini_mec_bringup/CMakeFiles/install.dir
+/home/gavin/minimec/build/mini_mec_bringup/CMakeFiles/install/local.dir
+/home/gavin/minimec/build/mini_mec_bringup/CMakeFiles/install/strip.dir

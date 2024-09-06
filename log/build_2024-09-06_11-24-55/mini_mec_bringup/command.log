@@ -1,0 +1,6 @@
+Invoking command in '/home/gavin/minimec/build/mini_mec_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/gavin/minimec/src/mini_mec_bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/gavin/minimec/install/mini_mec_bringup
+Invoked command in '/home/gavin/minimec/build/mini_mec_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/gavin/minimec/src/mini_mec_bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/gavin/minimec/install/mini_mec_bringup
+Invoking command in '/home/gavin/minimec/build/mini_mec_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/gavin/minimec/build/mini_mec_bringup -- -j8 -l8
+Invoked command in '/home/gavin/minimec/build/mini_mec_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/gavin/minimec/build/mini_mec_bringup -- -j8 -l8
+Invoking command in '/home/gavin/minimec/build/mini_mec_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/gavin/minimec/build/mini_mec_bringup
+Invoked command in '/home/gavin/minimec/build/mini_mec_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/gavin/minimec/build/mini_mec_bringup

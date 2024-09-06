@@ -1,0 +1,1 @@
+/home/gavin/minimec/build/mini_mec_bringup/ament_cmake_core/mini_mec_bringupConfig.cmake
