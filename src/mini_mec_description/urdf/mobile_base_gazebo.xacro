@@ -15,4 +15,16 @@
     <gazebo reference="right_front_link">
         <material>Gazebo/Black</material>
     </gazebo>
+
+    <gazebo>
+        <plugin name="mecanum_drive_control" filename="libgazebo_ros_planar_move.so">
+            <commandTopic>cmd_vel</commandTopic>
+            <odometryTopic>odom</odometryTopic>
+            <odometryFrame>odom</odometryFrame>
+            <odometryRate>50.0</odometryRate>
+            <robot_base_frame>base_link</robot_base_frame>
+            <publishTF>true</publishTF>
+      
+          </plugin>
+    </gazebo>
 </robot>

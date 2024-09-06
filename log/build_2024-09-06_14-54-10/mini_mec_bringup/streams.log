@@ -1,0 +1,23 @@
+[0.013s] Invoking command in '/home/gavin/minimec/build/mini_mec_bringup': CMAKE_PREFIX_PATH=/home/gavin/minimec/install/mini_mec_description:/home/gavin/minimec/install/mini_mec_bringup:/home/gavin/minimec/install/wheeltec_control:/opt/ros/humble /usr/bin/cmake --build /home/gavin/minimec/build/mini_mec_bringup -- -j8 -l8
+[0.071s] Invoked command in '/home/gavin/minimec/build/mini_mec_bringup' returned '0': CMAKE_PREFIX_PATH=/home/gavin/minimec/install/mini_mec_description:/home/gavin/minimec/install/mini_mec_bringup:/home/gavin/minimec/install/wheeltec_control:/opt/ros/humble /usr/bin/cmake --build /home/gavin/minimec/build/mini_mec_bringup -- -j8 -l8
+[0.109s] Invoking command in '/home/gavin/minimec/build/mini_mec_bringup': CMAKE_PREFIX_PATH=/home/gavin/minimec/install/mini_mec_description:/home/gavin/minimec/install/mini_mec_bringup:/home/gavin/minimec/install/wheeltec_control:/opt/ros/humble /usr/bin/cmake --install /home/gavin/minimec/build/mini_mec_bringup
+[0.119s] -- Install configuration: ""
+[0.120s] -- Execute custom install script
+[0.120s] -- Up-to-date symlink: /home/gavin/minimec/install/mini_mec_bringup/share/mini_mec_bringup/launch/mini_mec_gazebo.launch.xml
+[0.121s] -- Up-to-date symlink: /home/gavin/minimec/install/mini_mec_bringup/share/mini_mec_bringup/rviz/urdf_config.rviz
+[0.121s] -- Up-to-date symlink: /home/gavin/minimec/install/mini_mec_bringup/share/ament_index/resource_index/package_run_dependencies/mini_mec_bringup
+[0.121s] -- Up-to-date symlink: /home/gavin/minimec/install/mini_mec_bringup/share/ament_index/resource_index/parent_prefix_path/mini_mec_bringup
+[0.121s] -- Up-to-date symlink: /home/gavin/minimec/install/mini_mec_bringup/share/mini_mec_bringup/environment/ament_prefix_path.sh
+[0.122s] -- Up-to-date symlink: /home/gavin/minimec/install/mini_mec_bringup/share/mini_mec_bringup/environment/ament_prefix_path.dsv
+[0.122s] -- Up-to-date symlink: /home/gavin/minimec/install/mini_mec_bringup/share/mini_mec_bringup/environment/path.sh
+[0.122s] -- Up-to-date symlink: /home/gavin/minimec/install/mini_mec_bringup/share/mini_mec_bringup/environment/path.dsv
+[0.122s] -- Up-to-date symlink: /home/gavin/minimec/install/mini_mec_bringup/share/mini_mec_bringup/local_setup.bash
+[0.123s] -- Up-to-date symlink: /home/gavin/minimec/install/mini_mec_bringup/share/mini_mec_bringup/local_setup.sh
+[0.123s] -- Up-to-date symlink: /home/gavin/minimec/install/mini_mec_bringup/share/mini_mec_bringup/local_setup.zsh
+[0.123s] -- Up-to-date symlink: /home/gavin/minimec/install/mini_mec_bringup/share/mini_mec_bringup/local_setup.dsv
+[0.123s] -- Symlinking: /home/gavin/minimec/install/mini_mec_bringup/share/mini_mec_bringup/package.dsv
+[0.138s] -- Up-to-date symlink: /home/gavin/minimec/install/mini_mec_bringup/share/ament_index/resource_index/packages/mini_mec_bringup
+[0.138s] -- Up-to-date symlink: /home/gavin/minimec/install/mini_mec_bringup/share/mini_mec_bringup/cmake/mini_mec_bringupConfig.cmake
+[0.138s] -- Up-to-date symlink: /home/gavin/minimec/install/mini_mec_bringup/share/mini_mec_bringup/cmake/mini_mec_bringupConfig-version.cmake
+[0.139s] -- Up-to-date symlink: /home/gavin/minimec/install/mini_mec_bringup/share/mini_mec_bringup/package.xml
+[0.143s] Invoked command in '/home/gavin/minimec/build/mini_mec_bringup' returned '0': CMAKE_PREFIX_PATH=/home/gavin/minimec/install/mini_mec_description:/home/gavin/minimec/install/mini_mec_bringup:/home/gavin/minimec/install/wheeltec_control:/opt/ros/humble /usr/bin/cmake --install /home/gavin/minimec/build/mini_mec_bringup

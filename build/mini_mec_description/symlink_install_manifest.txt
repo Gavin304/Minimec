@@ -1,5 +1,6 @@
 /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description//urdf/common_properties.xacro
 /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description//urdf/mini_mec_robot.urdf.xacro
+/home/gavin/minimec/install/mini_mec_description/share/mini_mec_description//urdf/mini_mec_transmission.xacro
 /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description//urdf/mobile_base_gazebo.xacro
 /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description//launch/display.launch.xml
 /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description//rviz/urdf_config.rviz
