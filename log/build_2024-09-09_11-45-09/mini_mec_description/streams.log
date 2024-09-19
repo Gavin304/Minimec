@@ -1,0 +1,28 @@
+[0.026s] Invoking command in '/home/gavin/minimec/build/mini_mec_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gavin/minimec/install/wheeltec_control:/opt/ros/humble /usr/bin/cmake --build /home/gavin/minimec/build/mini_mec_description -- -j8 -l8
+[0.410s] Invoked command in '/home/gavin/minimec/build/mini_mec_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gavin/minimec/install/wheeltec_control:/opt/ros/humble /usr/bin/cmake --build /home/gavin/minimec/build/mini_mec_description -- -j8 -l8
+[0.454s] Invoking command in '/home/gavin/minimec/build/mini_mec_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gavin/minimec/install/wheeltec_control:/opt/ros/humble /usr/bin/cmake --install /home/gavin/minimec/build/mini_mec_description
+[0.463s] -- Install configuration: ""
+[0.464s] -- Execute custom install script
+[0.464s] -- Up-to-date symlink: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description//urdf/common_properties.xacro
+[0.464s] -- Up-to-date symlink: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description//urdf/mini_mec_robot.urdf.xacro
+[0.465s] -- Up-to-date symlink: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description//urdf/mobile_base_gazebo.xacro
+[0.465s] -- Up-to-date symlink: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description//launch/display.launch.xml
+[0.465s] -- Up-to-date symlink: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description//rviz/urdf_config.rviz
+[0.465s] -- Up-to-date symlink: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description//meshes/base_link.STL
+[0.465s] -- Up-to-date symlink: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description//meshes/wheel.STL
+[0.466s] -- Up-to-date symlink: /home/gavin/minimec/install/mini_mec_description/share/ament_index/resource_index/package_run_dependencies/mini_mec_description
+[0.466s] -- Up-to-date symlink: /home/gavin/minimec/install/mini_mec_description/share/ament_index/resource_index/parent_prefix_path/mini_mec_description
+[0.466s] -- Up-to-date symlink: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description/environment/ament_prefix_path.sh
+[0.466s] -- Up-to-date symlink: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description/environment/ament_prefix_path.dsv
+[0.466s] -- Up-to-date symlink: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description/environment/path.sh
+[0.467s] -- Up-to-date symlink: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description/environment/path.dsv
+[0.467s] -- Up-to-date symlink: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description/local_setup.bash
+[0.467s] -- Up-to-date symlink: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description/local_setup.sh
+[0.467s] -- Up-to-date symlink: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description/local_setup.zsh
+[0.467s] -- Up-to-date symlink: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description/local_setup.dsv
+[0.467s] -- Symlinking: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description/package.dsv
+[0.480s] -- Up-to-date symlink: /home/gavin/minimec/install/mini_mec_description/share/ament_index/resource_index/packages/mini_mec_description
+[0.480s] -- Up-to-date symlink: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description/cmake/mini_mec_descriptionConfig.cmake
+[0.480s] -- Up-to-date symlink: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description/cmake/mini_mec_descriptionConfig-version.cmake
+[0.480s] -- Up-to-date symlink: /home/gavin/minimec/install/mini_mec_description/share/mini_mec_description/package.xml
+[0.484s] Invoked command in '/home/gavin/minimec/build/mini_mec_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/gavin/minimec/install/wheeltec_control:/opt/ros/humble /usr/bin/cmake --install /home/gavin/minimec/build/mini_mec_description

@@ -1,0 +1,17 @@
+running develop
+/usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running egg_info
+writing wheeltec_control.egg-info/PKG-INFO
+writing dependency_links to wheeltec_control.egg-info/dependency_links.txt
+writing entry points to wheeltec_control.egg-info/entry_points.txt
+writing requirements to wheeltec_control.egg-info/requires.txt
+writing top-level names to wheeltec_control.egg-info/top_level.txt
+reading manifest file 'wheeltec_control.egg-info/SOURCES.txt'
+writing manifest file 'wheeltec_control.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/gavin/minimec/install/wheeltec_control/lib/python3.10/site-packages/wheeltec-control.egg-link (link to .)
+Installing wheeltec_keyboard script to /home/gavin/minimec/install/wheeltec_control/lib/wheeltec_control
+
+Installed /home/gavin/minimec/build/wheeltec_control
+running symlink_data

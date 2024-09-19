@@ -310,8 +310,8 @@ message(STATUS "Execute custom install script")
 
 # begin of custom install code
 
-# install(DIRECTORY "launch" "rviz" "DESTINATION" "share/mini_mec_bringup")
-ament_cmake_symlink_install_directory("/home/gavin/minimec/src/mini_mec_bringup" DIRECTORY "launch" "rviz" "DESTINATION" "share/mini_mec_bringup")
+# install(DIRECTORY "launch" "rviz" "worlds" "DESTINATION" "share/mini_mec_bringup")
+ament_cmake_symlink_install_directory("/home/gavin/minimec/src/mini_mec_bringup" DIRECTORY "launch" "rviz" "worlds" "DESTINATION" "share/mini_mec_bringup")
 
 # install(FILES "/home/gavin/minimec/build/mini_mec_bringup/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/mini_mec_bringup" "DESTINATION" "share/ament_index/resource_index/package_run_dependencies")
 ament_cmake_symlink_install_files("/home/gavin/minimec/src/mini_mec_bringup" FILES "/home/gavin/minimec/build/mini_mec_bringup/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/mini_mec_bringup" "DESTINATION" "share/ament_index/resource_index/package_run_dependencies")

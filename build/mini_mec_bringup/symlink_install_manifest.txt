@@ -1,5 +1,6 @@
 /home/gavin/minimec/install/mini_mec_bringup/share/mini_mec_bringup/launch/mini_mec_gazebo.launch.xml
 /home/gavin/minimec/install/mini_mec_bringup/share/mini_mec_bringup/rviz/urdf_config.rviz
+/home/gavin/minimec/install/mini_mec_bringup/share/mini_mec_bringup/worlds/small_house.world
 /home/gavin/minimec/install/mini_mec_bringup/share/ament_index/resource_index/package_run_dependencies/mini_mec_bringup
 /home/gavin/minimec/install/mini_mec_bringup/share/ament_index/resource_index/parent_prefix_path/mini_mec_bringup
 /home/gavin/minimec/install/mini_mec_bringup/share/mini_mec_bringup/environment/ament_prefix_path.sh

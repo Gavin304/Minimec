@@ -1,0 +1,19 @@
+[0.822s] Invoking command in '/home/gavin/minimec/build/wheeltec_control': PYTHONPATH=/home/gavin/minimec/build/wheeltec_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/gavin/minimec/install/wheeltec_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/gavin/minimec/build/wheeltec_control/build --no-deps symlink_data
+[1.111s] running develop
+[1.111s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.111s]   warnings.warn(
+[1.310s] running egg_info
+[1.310s] writing wheeltec_control.egg-info/PKG-INFO
+[1.311s] writing dependency_links to wheeltec_control.egg-info/dependency_links.txt
+[1.311s] writing entry points to wheeltec_control.egg-info/entry_points.txt
+[1.311s] writing requirements to wheeltec_control.egg-info/requires.txt
+[1.311s] writing top-level names to wheeltec_control.egg-info/top_level.txt
+[1.313s] reading manifest file 'wheeltec_control.egg-info/SOURCES.txt'
+[1.314s] writing manifest file 'wheeltec_control.egg-info/SOURCES.txt'
+[1.315s] running build_ext
+[1.315s] Creating /home/gavin/minimec/install/wheeltec_control/lib/python3.10/site-packages/wheeltec-control.egg-link (link to .)
+[1.316s] Installing wheeltec_keyboard script to /home/gavin/minimec/install/wheeltec_control/lib/wheeltec_control
+[1.316s] 
+[1.317s] Installed /home/gavin/minimec/build/wheeltec_control
+[1.317s] running symlink_data
+[1.357s] Invoked command in '/home/gavin/minimec/build/wheeltec_control' returned '0': PYTHONPATH=/home/gavin/minimec/build/wheeltec_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/gavin/minimec/install/wheeltec_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/gavin/minimec/build/wheeltec_control/build --no-deps symlink_data

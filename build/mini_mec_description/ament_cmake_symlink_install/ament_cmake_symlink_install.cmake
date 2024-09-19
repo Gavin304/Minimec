@@ -310,8 +310,8 @@ message(STATUS "Execute custom install script")
 
 # begin of custom install code
 
-# install(DIRECTORY "urdf" "launch" "rviz" "DESTINATION" "share/mini_mec_description/")
-ament_cmake_symlink_install_directory("/home/gavin/minimec/src/mini_mec_description" DIRECTORY "urdf" "launch" "rviz" "DESTINATION" "share/mini_mec_description/")
+# install(DIRECTORY "urdf" "launch" "rviz" "meshes" "DESTINATION" "share/mini_mec_description/")
+ament_cmake_symlink_install_directory("/home/gavin/minimec/src/mini_mec_description" DIRECTORY "urdf" "launch" "rviz" "meshes" "DESTINATION" "share/mini_mec_description/")
 
 # install(FILES "/home/gavin/minimec/build/mini_mec_description/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/mini_mec_description" "DESTINATION" "share/ament_index/resource_index/package_run_dependencies")
 ament_cmake_symlink_install_files("/home/gavin/minimec/src/mini_mec_description" FILES "/home/gavin/minimec/build/mini_mec_description/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/mini_mec_description" "DESTINATION" "share/ament_index/resource_index/package_run_dependencies")
